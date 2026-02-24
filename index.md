@@ -21,4 +21,4 @@ Results-driven Senior Business & Product Analyst with 20+ years of experience tr
 - Process Efficiency Improvement
 ---
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/belal-abu-khadejah-08a4b0198
+[LinkedIn] https://www.linkedin.com/in/belal-abu-khadejah-08a4b0198
