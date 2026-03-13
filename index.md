@@ -1,29 +1,66 @@
---- 
-layout: default 
-title: Belal Kadejah | Portfolio 
---- 
+---
+layout: default
+title: Belal Kadejah | Portfolio
+---
 
-## About Me 
-Senior Business & Product Analyst with 20+ years of experience leveraging data analytics, business intelligence, and KPI frameworks to drive strategic insights and performance optimization. 
+# Belal Kadejah
 
---- 
-
-## Skills 
-- Power BI (DAX, Data Modeling)
-- SQL - Advanced Excel
-- KPI Framework Design
-- Process Optimization
-- Stakeholder Reporting
+Senior Business & Product Analyst | Data Analytics | BI Dashboards | Power BI | SQL
 
 ---
 
-## Selected Focus Areas 
+## About Me
+
+Results-driven Senior Business & Product Analyst with 20+ years of experience translating data into actionable insights, KPI frameworks, and performance improvements.  
+I specialize in building **data-driven dashboards and analytics solutions that help leadership make strategic decisions.**
+
+---
+
+## Skills
+
+- Power BI (DAX, Data Modeling)
+- SQL
+- Advanced Excel
+- KPI Framework Design
+- Process Optimization
+- Stakeholder Reporting
+- Data Visualization
+- Business Intelligence
+
+---
+
+## Featured Projects
+
+### Sales Performance & Customer Insights Dashboard
+
+Interactive **Power BI dashboard** analyzing:
+
+- Revenue trends
+- Regional sales performance
+- Product demand
+- Customer insights
+- Business drivers using Key Influencers & Decomposition Tree
+
+**Tools:**  
+Power BI | DAX | Data Modeling | Business Intelligence
+
+[View Project on GitHub](https://github.com/BelalKadejah)
+
+---
+
+## Selected Focus Areas
+
 - Business Intelligence & Dashboard Automation
 - Performance & KPI Tracking
 - Data-Driven Decision Support
 - Process Efficiency Improvement
-  
+
 ---
 
 ## Contact
-[LinkedIn] https://www.linkedin.com/in/belal-abu-khadejah-08a4b0198
+
+LinkedIn:  
+https://www.linkedin.com/in/belal-abu-khadejah-08a4b0198
+
+GitHub:  
+https://github.com/BelalKadejah
