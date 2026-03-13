@@ -4,7 +4,7 @@ title: Belal Kadejah | Portfolio
 --- 
 
 ## About Me 
-Results-driven Senior Business & Product Analyst with 20+ years of experience translating data into actionable insights and performance improvements. 
+Senior Business & Product Analyst with 20+ years of experience leveraging data analytics, business intelligence, and KPI frameworks to drive strategic insights and performance optimization. 
 --- 
 
 ## Skills 
