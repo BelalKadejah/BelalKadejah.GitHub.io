@@ -33,7 +33,7 @@ I specialize in building **data-driven dashboards and analytics solutions that h
 
 ### Sales Performance & Customer Insights Dashboard
 
-![Power BI Dashboard](images/dashboard.png)
+![Power BI Dashboard](images/Exec Dashboard.png)
 
 Interactive Power BI dashboard analyzing:
 
