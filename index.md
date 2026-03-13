@@ -33,18 +33,21 @@ I specialize in building **data-driven dashboards and analytics solutions that h
 
 ### Sales Performance & Customer Insights Dashboard
 
-Interactive **Power BI dashboard** analyzing:
+![Power BI Dashboard](images/dashboard.png)
 
-- Revenue trends
-- Regional sales performance
+Interactive Power BI dashboard analyzing:
+
+- Revenue performance
+- Regional sales trends
 - Product demand
 - Customer insights
-- Business drivers using Key Influencers & Decomposition Tree
+- Business drivers using **Key Influencers** and **Decomposition Tree**
 
-**Tools:**  
-Power BI | DAX | Data Modeling | Business Intelligence
+**Tools Used**
 
-[View Project on GitHub](https://github.com/BelalKadejah)
+Power BI • DAX • Data Modeling • Business Intelligence
+
+[View Project Repository](https://github.com/BelalKadejah)
 
 ---
 
