@@ -33,7 +33,7 @@ I specialize in building **data-driven dashboards and analytics solutions that h
 
 ### Sales Performance & Customer Insights Dashboard
 
-[![Power BI Dashboard](images/Exec Dashboard.png)](https://github.com/BelalKadejah)
+[![Power BI Dashboard](images/Exec Dashboard.png)](https://github.com/BelalKadejah/powerbi-sales-dashboard)
 
 Interactive Power BI dashboard analyzing:
 
@@ -43,9 +43,10 @@ Interactive Power BI dashboard analyzing:
 - Customer insights
 - Business drivers using Key Influencers and Decomposition Tree
 
-**Tools Used:** Power BI, DAX, Data Modeling, Business Intelligence
+**Tools Used:**  
+Power BI • DAX • Data Modeling • Business Intelligence
 
-[View Project Repository](https://github.com/BelalKadejah)
+[View Full Project](https://github.com/BelalKadejah/powerbi-sales-dashboard)
 
 ---
 
