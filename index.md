@@ -33,7 +33,7 @@ I specialize in building **data-driven dashboards and analytics solutions that h
 
 ### Sales Performance & Customer Insights Dashboard
 
-[![Power BI Dashboard](images/Exec Dashboard.png)](https://github.com/BelalKadejah/powerbi-sales-dashboard)
+[![Power BI Dashboard](images/Exec%20Dashboard.png)](https://github.com/BelalKadejah/powerbi-sales-dashboard)
 
 Interactive Power BI dashboard analyzing:
 
@@ -47,6 +47,48 @@ Interactive Power BI dashboard analyzing:
 Power BI • DAX • Data Modeling • Business Intelligence
 
 [View Full Project](https://github.com/BelalKadejah/powerbi-sales-dashboard)
+
+---
+
+### Cyclistic Bike-Share Case Study
+
+End-to-end case study analyzing behavioral differences between casual riders and annual members using 12 months of bike-share data.
+
+**Tools Used:**  
+Google BigQuery • Python (pandas) • Power BI
+
+Key focus areas:
+- Rider segmentation
+- Trip duration analysis
+- Seasonal trends
+- Hourly usage behavior
+- Membership conversion recommendations
+
+[View Full Project](https://github.com/BelalKadejah/cyclistic-bike-share-case-study)
+
+---
+
+### Customer Segmentation Analysis (SQL)
+
+Customer segmentation analysis using SQL to identify high-value customers, purchasing behavior, and revenue contribution.
+
+Tools Used:  
+SQL • Data Analysis • Customer Analytics
+
+Project Repository:  
+(Coming Soon)
+
+---
+
+### Business KPI Performance Dashboard
+
+Business intelligence dashboard designed to track company KPIs including revenue trends, performance metrics, and operational efficiency.
+
+Tools Used:  
+Power BI • Data Modeling • KPI Design • Business Intelligence
+
+Project Repository:  
+(Coming Soon)
 
 ---
 
