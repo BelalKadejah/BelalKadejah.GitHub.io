@@ -62,7 +62,7 @@ Power BI • DAX • Data Modeling • Business Intelligence
 ## Contact
 
 LinkedIn:  
-https://www.linkedin.com/in/belal-abu-khadejah-08a4b0198
+[https://www.linkedin.com/in/belal-abu-khadejah-08a4b0198](https://www.linkedin.com/in/belal-abu-khadejah-08a4b0198)
 
 GitHub:  
-https://github.com/BelalKadejah
+[https://github.com/BelalKadejah](https://github.com/BelalKadejah)
