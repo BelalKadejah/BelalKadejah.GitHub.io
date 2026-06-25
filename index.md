@@ -5,27 +5,40 @@ title: Belal Kadejah | Portfolio
 
 # Belal Kadejah
 
-Senior Business & Product Analyst | Data Analytics | BI Dashboards | Power BI | SQL
+- Microsoft PL-300 Certified
+- Power BI
+SQL | DAX | Data Modeling | Business Intelligence
 
 ---
 
 ## About Me
 
-Results-driven Senior Business & Product Analyst with 20+ years of experience translating data into actionable insights, KPI frameworks, and performance improvements.  
-I specialize in building **data-driven dashboards and analytics solutions that help leadership make strategic decisions.**
+Microsoft Certified Power BI Data Analyst (PL-300) with extensive SQL experience and a strong background in healthcare analytics. I design end-to-end business intelligence solutions that transform raw data into executive dashboards, actionable insights, and data-driven business decisions.
 
 ---
 
 ## Skills
 
-- Power BI (DAX, Data Modeling)
+#### Business Intelligence
+
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- KPI Design
+
+#### Data Analytics
+
 - SQL
-- Advanced Excel
-- KPI Framework Design
-- Process Optimization
-- Stakeholder Reporting
-- Data Visualization
-- Business Intelligence
+- Data Validation
+- Root Cause Analysis
+- Business Analysis
+
+#### Visualization
+
+- Executive Dashboards
+- Interactive Reports
+- Storytelling
 
 ---
 
