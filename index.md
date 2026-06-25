@@ -42,6 +42,12 @@ Microsoft Certified Power BI Data Analyst (PL-300) with extensive SQL experience
 
 ---
 
+## Certifications
+
+- 🏅 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- 🏅 Google Data Analytics Professional Certificate
+  
+---
 ## Featured Projects
 
 ### AdventureWorks Executive Sales Analytics Solution
