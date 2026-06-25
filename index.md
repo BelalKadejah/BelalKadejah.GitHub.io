@@ -1,44 +1,43 @@
 ---
 layout: default
-title: Belal Kadejah | Portfolio
+title: Belal Abu-Kadejah | Portfolio
 ---
 
-# Belal Kadejah
+# Belal Abu-Kadejah
 
-- Microsoft PL-300 Certified
-- Power BI
-SQL | DAX | Data Modeling | Business Intelligence
-
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- Senior Data Analyst | Power BI | SQL | DAX | Data Modeling | Business Intelligence
 ---
 
 ## About Me
 
-Microsoft Certified Power BI Data Analyst (PL-300) with extensive SQL experience and a strong background in healthcare analytics. I design end-to-end business intelligence solutions that transform raw data into executive dashboards, actionable insights, and data-driven business decisions.
+Microsoft Certified Power BI Data Analyst Associate (PL-300) with strong SQL experience and a background in healthcare data, reporting, data validation, root cause analysis, and business intelligence.
+
+I build Power BI dashboards and analytics solutions that transform raw data into executive insights, KPI tracking, and data-driven business decisions.
 
 ---
 
 ## Skills
 
-#### Business Intelligence
-
+**Business Intelligence**
 - Power BI
 - DAX
 - Power Query
 - Data Modeling
 - KPI Design
+- Dashboard Development
 
-#### Data Analytics
-
+**Data Analytics**
 - SQL
 - Data Validation
 - Root Cause Analysis
+- Reporting
 - Business Analysis
 
-#### Visualization
-
-- Executive Dashboards
-- Interactive Reports
-- Storytelling
+**Tools**
+- Advanced Excel
+- GitHub
+- Power BI Service
 
 ---
 
