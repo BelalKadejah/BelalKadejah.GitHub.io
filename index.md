@@ -31,22 +31,26 @@ I specialize in building **data-driven dashboards and analytics solutions that h
 
 ## Featured Projects
 
-### Sales Performance & Customer Insights Dashboard
+### AdventureWorks Executive Sales Analytics Solution
 
-[![Power BI Dashboard](images/Exec%20Dashboard.png)](https://github.com/BelalKadejah/powerbi-sales-dashboard)
+[![Power BI Dashboard](https://github.com/BelalKadejah/BelalKadejah.GitHub.io/blob/main/ChatGPT%20Image%20Jun%2025%2C%202026%2C%2002_15_14%20PM.png) 
 
-Interactive Power BI dashboard analyzing:
+#### End-to-end Power BI business intelligence solution built using the AdventureWorks dataset.
 
-- Revenue performance
-- Regional sales trends
-- Product demand
-- Customer insights
-- Business drivers using Key Influencers and Decomposition Tree
+This project demonstrates the complete analytics lifecycle, including data preparation, Power Query transformations, star schema modeling, DAX development, KPI design, interactive dashboard development, and business insight generation for executive decision-making.
 
-**Tools Used:**  
-Power BI • DAX • Data Modeling • Business Intelligence
+**Tools & Technologies:**  
 
-[View Full Project](https://github.com/BelalKadejah/powerbi-sales-dashboard)
+• Power BI Desktop
+• Power Query
+• DAX
+• Data Modeling
+• Star Schema
+• KPI Design
+• Data Validation
+• Business Intelligence
+
+[Download Full Case Study (PDF)](https://github.com/BelalKadejah/BelalKadejah.GitHub.io/blob/main/AdventureWorks_Portfolio.pdf)
 
 ---
 
