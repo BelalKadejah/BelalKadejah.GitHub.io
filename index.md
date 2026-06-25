@@ -35,22 +35,49 @@ I specialize in building **data-driven dashboards and analytics solutions that h
 
 [![Power BI Dashboard](https://github.com/BelalKadejah/BelalKadejah.GitHub.io/blob/main/ChatGPT%20Image%20Jun%2025%2C%202026%2C%2002_15_14%20PM.png) 
 
-#### End-to-end Power BI business intelligence solution built using the AdventureWorks dataset.
+End-to-end Power BI business intelligence solution built using the AdventureWorks dataset.
 
 This project demonstrates the complete analytics lifecycle, including data preparation, Power Query transformations, star schema modeling, DAX development, KPI design, interactive dashboard development, and business insight generation for executive decision-making.
 
 **Tools & Technologies:**  
 
-• Power BI Desktop
-• Power Query
-• DAX
-• Data Modeling
-• Star Schema
-• KPI Design
-• Data Validation
-• Business Intelligence
+- Power BI Desktop
+- Power Query
+- DAX
+- Data Modeling
+- Star Schema
+- KPI Design
+- Data Validation
+- Business Intelligence
 
-[Download Full Case Study (PDF)](https://github.com/BelalKadejah/BelalKadejah.GitHub.io/blob/main/AdventureWorks_Portfolio.pdf)
+## End-to-End Development Responsibilities
+
+I independently completed the complete Power BI development lifecycle for this portfolio project.
+
+### Responsibilities
+
+- Connected and imported multiple raw CSV datasets into Power BI
+- Performed data profiling and transformation using Power Query
+- Cleaned and validated data to improve quality and consistency
+- Designed and implemented a Star Schema data model
+- Created calculated columns and 40+ DAX measures
+- Built interactive executive dashboards with drill-through navigation
+- Developed KPI scorecards and business performance metrics
+- Implemented Decomposition Tree and Key Influencers visualizations
+- Validated business results against source data
+- Delivered actionable insights to support executive decision-making
+
+### Key Deliverables
+
+- Executive KPI Dashboard
+- Product Performance Analysis
+- Customer Analytics Dashboard
+- Geographic Sales Analysis
+- Decomposition Tree Analysis
+- Key Influencers Analysis
+- Interactive Drill-through Navigation
+
+[📄 Download Full Case Study (PDF)](AdventureWorks_Portfolio_Edition_Clean.pdf)
 
 ---
 
