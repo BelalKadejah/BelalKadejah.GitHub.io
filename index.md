@@ -77,7 +77,7 @@ I independently completed the complete Power BI development lifecycle for this p
 - Key Influencers Analysis
 - Interactive Drill-through Navigation
 
-[📄 Download Full Case Study (PDF)](AdventureWorks_Portfolio_Edition_Clean.pdf) [📄 Download Full Case Study (PDF)](documents/AdventureWorks_Portfolio_Edition_Clean.pdf)
+[📄 Download Full Case Study (PDF)](documents/images/AdventureWorks_Portfolio.pdf) 
 
 ---
 
