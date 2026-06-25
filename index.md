@@ -7,6 +7,7 @@ title: Belal Abu-Kadejah | Portfolio
 
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 - Senior Data Analyst | Power BI | SQL | DAX | Data Modeling | Business Intelligence
+
 ---
 
 ## About Me
