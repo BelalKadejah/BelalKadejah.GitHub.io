@@ -39,6 +39,16 @@ End-to-end Power BI business intelligence solution built using the AdventureWork
 
 This project demonstrates the complete analytics lifecycle, including data preparation, Power Query transformations, star schema modeling, DAX development, KPI design, interactive dashboard development, and business insight generation for executive decision-making.
 
+## Business Objectives
+
+This solution was developed to help business leaders:
+
+- Monitor revenue, profit, and sales performance
+- Analyze customer purchasing behavior
+- Evaluate product performance
+- Compare regional performance
+- Support executive decision-making through interactive Power BI dashboards
+  
 **Technical Skills Demonstrated:**  
 
 - Power BI Desktop
