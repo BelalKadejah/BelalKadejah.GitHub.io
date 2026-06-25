@@ -91,7 +91,7 @@ The final solution provides executives with a centralized analytics platform tha
 - Key Influencers Analysis
 - Interactive Drill-through Navigation
 
-[📄 Download Full Case Study (PDF)](documents/images/AdventureWorks_Portfolio.pdf) 
+[📄 Download Full Case Study (PDF)](images/AdventureWorks_Portfolio.pdf)
 
 ---
 
