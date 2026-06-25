@@ -33,7 +33,7 @@ I specialize in building **data-driven dashboards and analytics solutions that h
 
 ### AdventureWorks Executive Sales Analytics Solution
 
-[![Power BI Dashboard](https://github.com/BelalKadejah/BelalKadejah.GitHub.io/blob/main/ChatGPT%20Image%20Jun%2025%2C%202026%2C%2002_15_14%20PM.png) 
+![AdventureWorks Dashboard](images/ChatGPT%20Image%20Jun%2025%2C%202026%2C%2002_15_14%20PM.png)
 
 End-to-end Power BI business intelligence solution built using the AdventureWorks dataset.
 
@@ -77,7 +77,7 @@ I independently completed the complete Power BI development lifecycle for this p
 - Key Influencers Analysis
 - Interactive Drill-through Navigation
 
-[📄 Download Full Case Study (PDF)](AdventureWorks_Portfolio_Edition_Clean.pdf)
+[📄 Download Full Case Study (PDF)](AdventureWorks_Portfolio_Edition_Clean.pdf) [📄 Download Full Case Study (PDF)](documents/AdventureWorks_Portfolio_Edition_Clean.pdf)
 
 ---
 
