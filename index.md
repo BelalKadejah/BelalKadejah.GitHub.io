@@ -39,7 +39,7 @@ End-to-end Power BI business intelligence solution built using the AdventureWork
 
 This project demonstrates the complete analytics lifecycle, including data preparation, Power Query transformations, star schema modeling, DAX development, KPI design, interactive dashboard development, and business insight generation for executive decision-making.
 
-**Tools & Technologies:**  
+**Technical Skills Demonstrated:**  
 
 - Power BI Desktop
 - Power Query
@@ -66,6 +66,10 @@ I independently completed the complete Power BI development lifecycle for this p
 - Implemented Decomposition Tree and Key Influencers visualizations
 - Validated business results against source data
 - Delivered actionable insights to support executive decision-making
+
+## Business Impact
+
+The final solution provides executives with a centralized analytics platform that enables faster reporting, improved KPI visibility, customer segmentation, product performance analysis, and data-driven decision-making through interactive Power BI dashboards.
 
 ### Key Deliverables
 
